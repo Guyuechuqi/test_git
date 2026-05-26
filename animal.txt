@@ -1,7 +1,3 @@
 dogs
 
 cats
-
-dragons
-
-pigs

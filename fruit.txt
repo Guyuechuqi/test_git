@@ -3,3 +3,9 @@ apple
 pineapple
 
 orange
+
+
+
+gemini3.5flash
+gemini3.1pro
+ChatGPT5.5
